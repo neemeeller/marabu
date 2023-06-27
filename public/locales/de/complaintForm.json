@@ -1,0 +1,62 @@
+{
+  "section1": {
+    "title": "Persönliche Daten",
+    "description": "Ihre persönlichen Daten werden von uns ausschließlich zur Bearbeitung Ihrer Anfrage erhoben und sicher gespeichert.",
+    "selectTitle": "Anrede",
+    "firstName": "Vorname",
+    "lastName": "Nachname",
+    "likeOriginalBooking": "Bitte geben Sie Ihren Name so ein, wie auf der Buchungsbestätigung Ihrer ursprünglichen Buchung angegeben.",
+    "street": "Straße",
+    "houseNumber": "Nr.",
+    "postcode": "PLZ",
+    "city": "Stadt",
+    "country": "Land",
+    "email": "E-Mail",
+    "invalidEmail": "Ungültige E-Mail-Adresse"
+  },
+  "section2": {
+    "title": "Flugdaten",
+    "departureAirport": "Abflughafen",
+    "destinationAirport": "Ankunftsflughafen",
+    "departureDate": "Abflugdatum",
+    "flightNumber": "Flugnummer",
+    "dateDescription": "Bitte geben Sie das Abflugdatum so ein, wie auf der Buchungsbestätigung Ihrer ursprünglichen Buchung angegeben.",
+    "flightDescription": "Bitte geben Sie nur die Ziffern Ihrer Flugnummer an. Beispiel: Flug MBU1234 wäre 1234.",
+    "bookingNumber": "Buchungsnummer",
+    "bookingNumberDescription": "Ihre Buchungsnummer finden Sie in Ihren Reieseunterlagen. Hier einige Beispiele für Buchungsnummern: Marabu Airlines OÜ z. B. 9789709 oder YIVPB88, andere Veranstalter z. B. TUI 17670784. Bitte verwenden Sie keine Sonderzeichen, sondern nur Zahlen und Buchstaben.",
+    "onlyNumbers": "Bitte geben Sie nur die Ziffern Ihrer Flugnummer an",
+    "onlyNumbersAndLetters": "Bitte verwenden Sie keine Sonderzeichen, sondern nur Zahlen und Buchstaben"
+  },
+  "section3": {
+    "title": "Ihr Anliegen",
+    "description": "Bitte wählen Sie hier den Grund Ihrer Beschwerde aus. Haben Sie mehrere Beschwerdegründe, nennen Sie uns bitte den Hauptgrund.",
+    "errorMessage": "Ihr anliegen"
+  },
+  "section4": {
+    "title": "Ihre Nachricht (bitte in Deutsch oder Englisch)",
+    "description": "Bitte teilen Sie uns alle weiteren Informationen zu Ihrem Anliegen mit.",
+    "errorMessage": "Ihre Nachricht"
+  },
+  "section5": {
+    "title": "Bankverbindung",
+    "description": "Ihre Bankverbindung wird von uns ausschließlich zur Bearbeitung Ihres Anliegens abgefragt und sicher gespeichert.",
+    "accountHolderFirstName": "Vorname Kontoinhaber",
+    "accountHolderLastName": "Nachname Kontoinhaber",
+    "accountHolderCountry": "Land",
+    "iban": "IBAN",
+    "bic": "BIC"
+  },
+  "section6": {
+    "title": "Anhänge",
+    "description": "Vergewissern Sie sich bitte, dass Sie eines der folgenden Formate verwenden: TXT, ODF, DOC, DOCX, PDF, JPG, JPEG, PNG, TIF. Sie können neben der Buchungsbestätigung bis zu 5 weitere Dateien anhängen. Die maximale Größe von insgesamt 10 MB darf nicht überschritten werden."
+  },
+  "section7": {
+    "personalDataConsent": "Mit dem Absenden des Formulars willige ich ein, dass die Marabu Airlines OÜ meine personenbezogenen Daten für die Bearbeitung meines Anliegens verarbeitet und speichert.",
+    "errorMessage": "Die Zustimmung zu personenbezogenen Daten"
+  },
+  "submit": "Formular absenden",
+  "loading": "Wird geladen...",
+  "emailSentError": "Es gab ein Problem mit dem Senden Ihrer E-mail. Bitte versuchen sie es erneut.",
+  "emailSentSuccess": "Vielen Dank für Ihre E-Mail!",
+  "validFileFormat": "Bitte laden Sie die Datei im zulässigen Format hoch"
+}

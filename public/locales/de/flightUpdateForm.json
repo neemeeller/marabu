@@ -1,0 +1,16 @@
+{
+  "lead": "Bitte füllen sie das Kontaktformular aus, damit wir Sie über Änderungen ihres Fluges informieren können.",
+  "flightDate": "Gebuchtes Flugdatum",
+  "flightNumber": "Flugnummer",
+  "routing": "Route",
+  "contactPerson": "Name der Kontaktperson",
+  "mobilePhone": "Handynummer",
+  "email": "E-Mail Adresse",
+  "personalDataConsent": "Mit dem Absenden des Formulars willige ich ein, dass die Marabu Airlines OÜ meine personenbezogenen Daten für die Bearbeitung meines Anliegens verarbeitet und speichert.",
+  "errorMessage": "Die Zustimmung zu personenbezogenen Daten",
+  "customerFlightInfo": "Kontaktformular",
+  "search": "Suchen",
+  "submit": "Formular absenden",
+  "emailSentError": "Es gab ein Problem mit dem Senden Ihrer E-mail. Bitte versuchen sie es erneut.",
+  "emailSentSuccess": "Vielen Dank für Ihre E-Mail!"
+}

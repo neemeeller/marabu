@@ -1,0 +1,35 @@
+{
+  "title": "Marabu",
+  "Nav": {
+    "Marabu": "Marabu",
+    "Services": "Service",
+    "Fleet": "Fleet",
+    "Destinations": "Destinations",
+    "Career": "Career",
+    "Booking": "Book a flight",
+    "bookinglink": "https://www.condor.com/eu",
+    "BookingMobile": "Book flight",
+    "seatBooking": "Book seat",
+    "seatBookingMobile": "Seat",
+    "seatBookingLink": "https://www.condor.com/tcibe/en/mybooking/login",
+    "Contact": "Contact",
+    "CustomerService": "Customer Service",
+    "PressContact": "Press contact",
+    "Imprint": "Imprint",
+    "Gtbc": "GTBC",
+    "PassengerRights": "Passenger rights",
+    "Privacy": "Privacy",
+    "Apply": "Apply now",
+    "Checkin": "Online Check-In",
+    "checkinLink": "/checkin",
+    "FlightStatus": "Flight Status"
+  },
+  "Redirecting": "We are now redirecting you to the website of our sales partner <a href='https://www.condor.com/' target='_blank'>condor.com</a>",
+  "BookingNote": "Book your<br />summer<br />experience",
+  "LiabilityLink": "<a class='hover:text-orange transition-all font-extrabold' href='/data/Liability_Limitation_Disclaimer_(ENG).pdf' target='_blank' download>Liability limitations</a>",
+  "error": {
+    "required": " is required",
+    "numberOnly": "This input is number only",
+    "properNumber": "Please check your phone number"
+  }
+}

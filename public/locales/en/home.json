@@ -1,0 +1,36 @@
+{
+    "Marabu": {
+        "Hero": "Discover the world with Marabu – For more moments by the sea",
+        "Description" : "Sandy hair, don't care: Marabu flies from Hamburg and Munich to the most beautiful beaches around the Med, Egypt, the Canary Islands, Portugal and Spain. Sun guaranteed! Passengers can expect a modern fleet, the latest generation of aircraft as well as comfort and service."
+    },
+    "Destinations": {
+        "Title" : "Destinations",
+        "Description" : "Diving the Red Sea, Yamas in Greece, Beach siesta in Spain or the Portuguese Algarve? Marabu operates non-stop from Hamburg and Munich to the most popular holiday destinations."
+    },
+    "Fleet": {
+        "Title" : "Fleet",
+        "Description" : "Marabu operates modern and highly efficient aircraft: The Airbus A320 aircraft uses latest technology with reduced emissions, lower fuel consumption and less noise – and the highest level of customer comfort. Our fleet is maintained to the highest European standards. Passengers can look forward to a reliable and pleasant flight experience.",
+        "PartnerAirlines": "Partner Airlines"
+    },
+    "Career": {
+        "Title" : "Crew up!",
+        "Description" : "If you want to be part of a young and agile company with great colleagues, apply to join us. We are looking for: <a href='https://www.career.aero/site/en/job/list/employer/1703-marabu-airlines' target='_blank'>Flight captains (m/f/d)</a>, <a href='https://www.career.aero/site/en/job/list/employer/1703-marabu-airlines' target='_blank'>first officers (m/f/d)</a> and <a href='https://www.career.aero/site/en/job/list/employer/1703-marabu-airlines' target='_blank'>flight attendants (m/f/d)</a>."
+    },
+    "Services": {
+        "Title" : "Service",
+        "Content" : {
+            "01" : {
+                "Title" : "Comfy <br />mode on",
+                "Description": "Relaxing seats in Economy, or even more comfort in Business? Choose the window seat."
+            },
+            "02" : {
+                "Title" : "Snacks <br />and drinks",
+                "Description": "Hearty and sweet, regional and vegan: enjoy your time on board with snacks and drinks from the Marabu on-board bistro."
+            },
+            "03" : {
+                "Title" : "Good entertainment",
+                "Description": "Stream films, series, podcasts, music and games on your own mobile devices – or maybe you prefer the cinema of clouds?"
+            }
+        }
+    }
+}

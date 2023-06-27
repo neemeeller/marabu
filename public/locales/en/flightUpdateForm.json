@@ -1,0 +1,16 @@
+{
+  "lead": "Please fill out below contact form, that we can inform you about any update about your flight with Marabu Airlines.",
+  "flightDate": "Original Flight Date",
+  "flightNumber": "Flight Number",
+  "routing": "Routing",
+  "contactPerson": "Name of Contact Person",
+  "mobilePhone": "Mobile Phone Number",
+  "email": "E-Mail Address",
+  "personalDataConsent": "I consent by submitting this form I will be sharing my personal data in order for Marabu Airlines OÜ to contact me about flight updates.",
+  "errorMessage": "Personal data consent",
+  "customerFlightInfo": "Customer flight info",
+  "search": "Search",
+  "submit": "Submit",
+  "emailSentError": "There was a problem with sending Your email. Please try again!",
+  "emailSentSuccess": "Thank you for your email!"
+}

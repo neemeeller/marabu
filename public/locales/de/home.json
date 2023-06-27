@@ -1,0 +1,36 @@
+{
+    "Marabu": {
+        "Hero": "Mit Marabu die Welt entdecken – für mehr Momente am Meer",
+        "Description" : "Sandy hair, don’t care: Marabu fliegt ab Hamburg und München die schönsten Strände rund um’s Mittelmeer, in Ägypten, auf den Kanarischen Inseln in Portugal und Spanien an. Sonnengarantie inklusive! Gäste erwartet eine moderne Flotte mit Flugzeugen der neuesten Generation, Komfort und Service."
+    },
+    "Destinations": {
+        "Title" : "Ziele",
+        "Description" : "Tauchen am Roten Meer, Yamas in Griechenland, Strand-Siesta in Spanien oder an die portugiesische Algarve? Marabu steuert die beliebtesten Urlaubsdestinationen nonstop ab Hamburg und München an."
+    },
+    "Fleet": {
+        "Title" : "Flotte",
+        "Description" : "Für Marabu sind modernste und höchsteffiziente Flugzeuge im Einsatz: Die Maschinen des Typs Airbus A320 setzen auf neueste Technologie, reduzierte Emissionen, weniger Treibstoffverbrauch und weniger Lärm – bei höchstem Kundenkomfort. Unsere Flotte wird nach höchsten europäischen Standards gewartet. Gäste können sich auf ein zuverlässiges und angenehmes Flugerlebnis freuen.",
+        "PartnerAirlines": "Partner Airlines"
+    },
+    "Career": {
+        "Title" : "Crew up!",
+        "Description" : "Wenn Sie Teil eines jungen und agilen Unternehmens mit tollen Kolleg*innen werden wollen, dann bewerben Sie sich bei uns. Wir suchen ab sofort <a href='https://www.career.aero/site/en/job/list/employer/1703-marabu-airlines' target='_blank'>Flugkapitäne (m/w/d)</a>, <a href='https://www.career.aero/site/en/job/list/employer/1703-marabu-airlines' target='_blank'>Erste Offiziere (m/w/d)</a> und <a href='https://www.career.aero/site/en/job/list/employer/1703-marabu-airlines' target='_blank'>Flugbegleiter (m/w/d)</a>."
+    },
+    "Services": {
+        "Title" : "Service",
+        "Content" : {
+            "01" : {
+                "Title" : "Comfy <br/>mode on",
+                "Description": "Bequeme Sitze in der Economy Class oder noch mehr Komfort in der Business Class? Choose the window seat."
+            },
+            "02" : {
+                "Title" : "Snacks <br/>und Drinks",
+                "Description": "Herzhaft und süß, regional und vegan: Genießen Sie die Zeit an Bord mit Snacks und Drinks aus dem Marabu-Bordbistro."
+            },
+            "03" : {
+                "Title" : "Gute Unterhaltung",
+                "Description": "Filme, Serien, Podcasts, Musik und Spiele auf dem eigenen mobilen Endgerät streamen – oder doch lieber Wolkenkino?"
+            }
+        }
+    }
+}

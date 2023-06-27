@@ -1,0 +1,16 @@
+{
+  "title": "Reklamation",
+  "subtitle": "Für Rekalmationen, können Sie sich auf dieser Seite an uns wenden",
+  "section1": {
+    "title": "Gepäck",
+    "description": "Möchten Sie ihren beschädigten oder verspäteten Koffer melden? Bitte füllen Sie das Formular unseres Partners Nordica aus",
+    "button": "Gepäckform"
+  },
+  "section2": {
+    "title": "Flug & Flugbuchung",
+    "text1": "Sie sind mit Ihrer Buchung oder Ihrem Flug nicht zufrieden? Wir bitten um Entschuldigung.",
+    "text2": "Um Ihre Beschwerde oder Reklamation einzureichen, verwenden Sie bitte unser Kontaktformular.",
+    "buttonOpened": "Form Schlieβen",
+    "buttonClosed": "Reklamationsform"
+  }
+}

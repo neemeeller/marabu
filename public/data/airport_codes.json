@@ -1,0 +1,157 @@
+[
+  {
+    "code": "AGP",
+    "de": "Malaga (AGP)",
+    "en": "Malaga (AGP)"
+  },
+  {
+    "code": "AOK",
+    "de": "Karpathos (AOK)",
+    "en": "Karpathos (AOK)"
+  },
+  {
+    "code": "CFU",
+    "de": "Corfu (CFU)",
+    "en": "Corfu (CFU)"
+  },
+  {
+    "code": "CHQ",
+    "de": "Chania/ Kreta (CHQ)",
+    "en": "Chania/ Crete (CHQ)"
+  },
+  {
+    "code": "DUS",
+    "de": "Düsseldorf (DUS)",
+    "en": "Dusseldorf (DUS)"
+  },
+  {
+    "code": "EFL",
+    "de": "Kefalonia (EFL)",
+    "en": "Kefalonia (EFL)"
+  },
+  {
+    "code": "FAO",
+    "de": "Faro (FAO)",
+    "en": "Faro (FAO)"
+  },
+  {
+    "code": "FCO",
+    "de": "Rom (FCO)",
+    "en": "Rome (FCO)"
+  },
+  {
+    "code": "FRA",
+    "de": "Frankfurt (FRA)",
+    "en": "Frankfurt (FRA)"
+  },
+  {
+    "code": "HAJ",
+    "de": "Hannover (HAJ)",
+    "en": "Hanover (HAJ)"
+  },
+  {
+    "code": "HAM",
+    "de": "Hamburg (HAM)",
+    "en": "Hamburg (HAM)"
+  },
+  {
+    "code": "HER",
+    "de": "Heraklion/ Kreta (HER)",
+    "en": "Heraklion/ Crete (HER)"
+  },
+  {
+    "code": "HRG",
+    "de": "Hurghada (HRG)",
+    "en": "Hurghada (HRG)"
+  },
+  {
+    "code": "KGS",
+    "de": "Kos (KGS)",
+    "en": "Kos (KGS)"
+  },
+  {
+    "code": "LEJ",
+    "de": "Leipzig (LEJ)",
+    "en": "Leipzig (LEJ)"
+  },
+  {
+    "code": "LPA",
+    "de": "Las Palmas/ Gran Canaria (LPA)",
+    "en": "Las Palmas/ Gran Canaria (LPA)"
+  },
+  {
+    "code": "MUC",
+    "de": "München (MUC)",
+    "en": "Munich (MUC)"
+  },
+  {
+    "code": "NUE",
+    "de": "Nürnberg (NUE)",
+    "en": "Nuremberg (NUE)"
+  },
+  {
+    "code": "OLB",
+    "de": "Olbia (OLB)",
+    "en": "Olbia (OLB)"
+  },
+  {
+    "code": "PMI",
+    "de": "Palma de Mallorca (PMI)",
+    "en": "Palma de Mallorca (PMI)"
+  },
+  {
+    "code": "PVK",
+    "de": "Preveza/Lefkas (PVK)",
+    "en": "Preveza/Lefkas (PVK)"
+  },
+  {
+    "code": "RHO",
+    "de": "Rhodos (RHO)",
+    "en": "Rhodes (RHO)"
+  },
+  {
+    "code": "SPC",
+    "de": "La Palma (SPC)",
+    "en": "La Palma (SPC)"
+  },
+  {
+    "code": "SPU",
+    "de": "Split (SPU)",
+    "en": "Split (SPU)"
+  },
+  {
+    "code": "STR",
+    "de": "Stuttgart (STR)",
+    "en": "Stuttgart (STR)"
+  },
+  {
+    "code": "SUF",
+    "de": "Lamezia Terma/Kalabrien (SUF)",
+    "en": "Lamezia Terma/Calabria (SUF)"
+  },
+  {
+    "code": "TFS",
+    "de": "Teneriffa (TFS)",
+    "en": "Tenerife (TFS)"
+  },
+  {
+    "code": "TLL",
+    "de": "Tallinn (TLL)",
+    "en": "Tallinn (TLL)"
+  },
+  {
+    "code": "VOL",
+    "de": "Volos (VOL)",
+    "en": "Volos (VOL)"
+  },
+  {
+    "code": "XRY",
+    "de": "Jerez de la Frontera (XRY)",
+    "en": "Jerez de la Frontera (XRY)"
+  },
+  {
+    "code": "ZTH",
+    "de": "Zakynthos (ZTH)",
+    "en": "Zakynthos (ZTH)"
+  }
+]

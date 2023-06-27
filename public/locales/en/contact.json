@@ -1,0 +1,16 @@
+{
+  "title": "Complaint",
+  "subtitle": "Below you can find out how to cotact us if you have a complaint.",
+  "section1": {
+    "title": "Baggage Claim",
+    "description": "Do you wish to report your damaged or lost baggage? Please fill out the Baggage Form from our partner Nordica",
+    "button": "Baggage Form"
+  },
+  "section2": {
+    "title": "Flight & Flight Booking",
+    "text1": "Do you have a complaint about your booking or flight? We're sorry to hear this.",
+    "text2": "Please use our contact form below to send us your complaints or tell us more about the problem.",
+    "buttonOpened": "Close form",
+    "buttonClosed": "Flight & Flight Booking form"
+  }
+}

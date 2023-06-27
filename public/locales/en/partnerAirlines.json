@@ -1,0 +1,33 @@
+{
+  "Tab1": {
+    "Label": "Heston Airlines",
+    "LogoPath": "/images/heston-airlines.jpg",
+    "Title": "Flights with Heston Airlines",
+    "Subtitle": "Marabu has been working in cooperation with the Lithuanian airline Heston Airlines since May 2023.",
+    "Text": "With our partner Heston Airlines you can fly from Munich and Hamburg to Egypt, Greece, Italy, the Canary Islands and the Balearic Islands.",
+    "Text1": "If you have any questions about your Marabu flight operated by Heston, or if would like to book special services (such as a seat reservation or sports equipment), please use the following contact option: ",
+    "ContactEmail": "service@marabu.ee",
+    "Table": "<table class='table-auto border'>\n  <tbody>\n    <tr>\n      <td class='px-4 py-2 font-bold border-gray-200 bg-coal text-cloud'>Hand baggage</td>\n      <td class='px-4 py-2 border-b border-gray-200'>Analog Marabu</td>\n    </tr>\n    <tr>\n      <td class='px-4 py-2 border-b font-bold  border-gray-200 bg-coal text-cloud'>Free baggage</td>\n      <td class='px-4 py-2 border-b  border-gray-200'>Analog Marabu</td>\n    </tr>\n    <tr>\n      <td class='px-4 py-2 border-b font-bold border-gray-200 bg-coal text-cloud'>Sports baggage</td>\n      <td class='px-4 py-2 border-b border-gray-200'>Analog Marabu</td>\n    </tr>\n    <tr>\n      <td class='px-4 py-2 border-b font-bold  border-gray-200 bg-coal text-cloud'>Inflight Entertainment</td>\n      <td class='px-4 py-2 border-b  border-gray-200'>From June: Wireless IFE available via own mobile devices</td>\n    </tr>\n    <tr>\n      <td class='px-4 py-2 border-b font-bold  border-gray-200 bg-coal text-cloud'>Pregnancy</td>\n      <td class='px-4 py-2 border-b  border-gray-200'>\n        Without confirmation of fitness to fly, carriage of pregnant women on Nordica Airlines is only possible until\n        the end of the 26th week of pregnancy, with confirmation until the end of the 36th week.\n      </td>\n    </tr>\n    <tr>\n      <td class='px-4 py-2 border-b font-bold border-gray-200 bg-coal text-cloud'>Unaccompanied children</td>\n      <td class='px-4 py-2 border-b border-gray-200'>Analog Marabu</td>\n    </tr>\n    <tr>\n      <td class='px-4 py-2 font-bold border-gray-200 bg-coal text-cloud'>Transporting animals</td>\n      <td class='px-4 py-2 border-gray-200'>Animals in the cabin: analog Marabu</td>\n    </tr>\n  </tbody>\n</table>",
+    "Heading2": "About Heston Airlines",
+    "Text2": "Heston Airlines is a new airline based in Vilnius, Lithuania. It is part of the Heston Aviation Group (Brisbane, Australia), a group of companies specializing in aircraft leasing, sales, maintenance and repair. Since 2021, the company has been flying for other airlines and also operates charter flights for tour operators. In the summer of 2023, Heston Airlines will be IOSA certified - a global quality seal for flight safety awarded by the International Air Transport Association (IATA). The fleet comprises a total of A320, A321 and A330 aircraft. Two A321 and one A320 fly short-haul and medium-haul flighs for Marabu.",
+    "Terms&ConditionsText": "Marabu's General Terms and Conditions apply",
+    "Website": "Website: ",
+    "PartnerWebsiteText": "Heston Airlines",
+    "PartnerWebsiteUrl": "https://heston.aero"
+  },
+  "Tab2": {
+    "Label": "Nordica",
+    "LogoPath": "/images/nordica.png",
+    "Title": "Flights with Nordica",
+    "Subtitle": "Marabu has been working in cooperation with the Estonian airline Nordica since April 2023.",
+    "Text": "With our partner Nordica you can fly from Munich and Hamburg to our network across the Mediterranean.",
+    "Text1": "If you have any questions about your Marabu flight operated by Nordica, or if would like to book special services (such as a seat reservation or sports equipment), please use the following contact option: ",
+    "ContactEmail": "service@marabu.ee",
+    "Table": "<table class='table-auto border'>\n  <tbody>\n    <tr>\n      <td class='px-4 py-2 font-bold border-gray-200 bg-coal text-cloud'>Hand baggage</td>\n      <td class='px-4 py-2 border-b border-gray-200'>Analog Marabu</td>\n    </tr>\n    <tr>\n      <td class='px-4 py-2 border-b font-bold  border-gray-200 bg-coal text-cloud'>Free baggage</td>\n      <td class='px-4 py-2 border-b  border-gray-200'>Analog Marabu</td>\n    </tr>\n    <tr>\n      <td class='px-4 py-2 border-b font-bold border-gray-200 bg-coal text-cloud'>Sports baggage</td>\n      <td class='px-4 py-2 border-b border-gray-200'>Analog Marabu</td>\n    </tr>\n    <tr>\n      <td class='px-4 py-2 border-b font-bold  border-gray-200 bg-coal text-cloud'>Inflight Entertainment</td>\n      <td class='px-4 py-2 border-b  border-gray-200'>From June: Wireless IFE available via own mobile devices</td>\n    </tr>\n    <tr>\n      <td class='px-4 py-2 border-b font-bold  border-gray-200 bg-coal text-cloud'>Pregnancy</td>\n      <td class='px-4 py-2 border-b  border-gray-200'>\n        Without confirmation of fitness to fly, carriage of pregnant women on Nordica Airlines is only possible until\n        the end of the 26th week of pregnancy, with confirmation until the end of the 36th week.\n      </td>\n    </tr>\n    <tr>\n      <td class='px-4 py-2 border-b font-bold border-gray-200 bg-coal text-cloud'>Unaccompanied children</td>\n      <td class='px-4 py-2 border-b border-gray-200'>Analog Marabu</td>\n    </tr>\n    <tr>\n      <td class='px-4 py-2 font-bold border-gray-200 bg-coal text-cloud'>Transporting animals</td>\n      <td class='px-4 py-2 border-gray-200'>Animals in the cabin: analog Marabu</td>\n    </tr>\n  </tbody>\n</table>",
+    "Heading2": "About Nordica",
+    "Text2": "Nordic Aviation Group AS was established on September 25th 2015 by the Government of the Republic of Estonia. The Group is comprised of two trusted airline brands, Xfly and Nordica, and Nordic Aviation Advisory. Nordica offers strategic partnership to major European airlines by providing long-term flight services with aircaft and crews, insurance, and maintenance (ACMI). The headquarter of the company is in Tallinn. Nordica currently has a modern fleet of 17 aircraft such as ATR 72-600, CRJ900 and Airbus A320. A further 13 aircraft are planned to enter the service. In Spring 2023, three Airbus A320neo aircraft will be added to the fleet - known for being state-of-the-art emission - and sound-reduced engine-powered craft.",
+    "Terms&ConditionsText": "Marabu's General Terms and Conditions apply",
+    "PartnerWebsiteText": "Nordica Website",
+    "PartnerWebsiteUrl": "https://www.nordica.ee/en"
+  }
+}

@@ -1,0 +1,65 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    html,
+    body {
+        @apply text-coal font-medium antialiased overscroll-none;
+    }
+
+    .headline-1 {
+        @apply text-3xl font-extrabold;
+    }
+    .large-text{
+        @apply text-lg lg:text-[1.25rem];
+    }
+    .with-link{
+        a:link, a:visited{
+            @apply font-extrabold underline transition-all underline-offset-2;
+        }
+        a:hover, a:focus{
+            @apply text-orange;
+        }
+    }
+
+    th,
+    td {
+        border: 1px solid;
+        padding: 10px;
+        text-align: left;
+    }
+
+    .std-text {
+        h1{
+            @apply text-3xl font-extrabold mt-10 mb-3;
+        }
+        h2{
+            @apply text-2xl font-extrabold mt-10 my-3;
+        }
+        h3{
+            @apply text-xl font-extrabold mt-8 my-3;
+        }
+        a:link, a:visited{
+            @apply font-extrabold underline transition-all underline-offset-2;
+        }
+        a:hover, a:focus{
+            @apply text-orange;
+        }
+
+        ul, ol{
+            @apply list-disc list-outside ml-5 mb-3;
+        }
+        p{
+            @apply mb-5;
+        }
+        a:link.no-underline {
+            text-decoration: none;
+        }
+    }
+
+    /* Special styles for phone input field */
+    .react-tel-input input.form-control {
+        @apply w-full border rounded-sm border-inherit mb-1;
+    }
+}

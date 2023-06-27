@@ -1,0 +1,62 @@
+{
+  "section1": {
+    "title": "Personal data of the Passenger",
+    "description": "Any personal data that we collect will only be used to process your enquiry, and will be safely and securely stored.",
+    "selectTitle": "Title",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "likeOriginalBooking": "Please enter your name as shown on the booking confirmation of your original booking.",
+    "street": "Street",
+    "houseNumber": "House number",
+    "postcode": "Postcode",
+    "city": "City",
+    "country": "Country",
+    "email": "Email",
+    "invalidEmail": "Invalid email address"
+  },
+  "section2": {
+    "title": "Flight information",
+    "departureAirport": "Departure Airport",
+    "destinationAirport": "Destination Airport",
+    "departureDate": "Departure date",
+    "flightNumber": "Flight number",
+    "dateDescription": "Please enter the departure date as shown on the booking confirmation of your original booking.",
+    "flightDescription": "Please provide only the numbers of your Marabu flight number. Example MBU1234 would be 1234.",
+    "bookingNumber": "Booking number",
+    "bookingNumberDescription": "You can find your booking number in your travel documents. Here are some examples of booking numbers: Marabu Airlines OÜ e.g. 9789709 or YIVPB88, other organizers e.g. TUI 17670784. Don't use any special characters, just numbers and letters.",
+    "onlyNumbers": "Please provide only the numbers",
+    "onlyNumbersAndLetters": "Don't use any special characters, just numbers and letters"
+  },
+  "section3": {
+    "title": "Your concern",
+    "description": "Please select the reason for your complaint here. If you have more than one reason for complaining, please tell us the main reason.",
+    "errorMessage": "Your concern reason"
+  },
+  "section4": {
+    "title": "Your message (Please provide in English or German)",
+    "description": "Please let us know any additional information about your complaint/claim",
+    "errorMessage": "Description"
+  },
+  "section5": {
+    "title": "Account details",
+    "description": "Account details will only be used to process your enquiry, and will be safely and securely stored.",
+    "accountHolderFirstName": "Account holder's first name",
+    "accountHolderLastName": "Account holder's last name",
+    "accountHolderCountry": "Country",
+    "iban": "IBAN",
+    "bic": "BIC"
+  },
+  "section6": {
+    "title": "Attachments",
+    "description": "Please ensure that you only use one of the following formats: TXT, ODF, DOC, DOCX, PDF, JPG, JPEG, PNG, TIF. In addition to the booking confirmation you can attach a maximum of 5 more files. The maximum total size of all the files taken together must not exceed 10 MB."
+  },
+  "section7": {
+    "personalDataConsent": "I consent by submitting this form I will be sharing my personal data in order for Marabu Arilines OÜ to process my claim.",
+    "errorMessage": "Personal data consent"
+  },
+  "submit": "Submit",
+  "loading": "Loading...",
+  "emailSentError": "There was a problem with sending Your email. Please try again!",
+  "emailSentSuccess": "Thank you for your email!",
+  "validFileFormat": "Please upload file in allowed format"
+}

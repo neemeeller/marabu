@@ -1,0 +1,18 @@
+{
+  "Title": "Departure & Arrival",
+  "Text1": "Here, you can check the current departure and arrival times for Marabu flights.",
+  "Text2": "We recommend that you check-in at the airport minimum 2 hours before your scheduled departure time.",
+  "departureAirport": "From",
+  "destinationAirport": "To",
+  "date": "Date",
+  "flightNumber": "Flight number",
+  "ontime": "On time",
+  "delayed": "Delayed",
+  "scheduled": "Scheduled:",
+  "estimated": "Estimated:",
+  "route": "Route",
+  "departure": "Departure",
+  "arrival": "Arrival",
+  "Filter": "Check flight status",
+  "generalError": "Something went wrong, please try again later"
+}

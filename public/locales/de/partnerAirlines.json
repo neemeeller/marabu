@@ -1,0 +1,33 @@
+{
+  "Tab1": {
+    "Label": "Heston Airlines",
+    "LogoPath": "/images/heston-airlines.jpg",
+    "Title": "Flüge mit Heston Airlines",
+    "Subtitle": "Seit Mai 2023 kooperiert Marabu mit der litauischen Fluggesellschaft Heston Airlines.",
+    "Text": "Mit unserem Partner Heston Airlines fliegen Sie von München und Hamburg nach Ägypten, Griechenland, Italien, auf die Kanaren und die Balearen.",
+    "Text1": "Falls Sie zu Ihrem Marabu-Flug, durchgeführt von Heston, Fragen haben oder Sonderleistungen (wie z.B. eine Sitzplatzreservierung oder Sportgepäck) hinzubuchen möchten, steht Ihnen folgende Kontaktmöglichkeit zur Verfügung: ",
+    "ContactEmail": "service@marabu.ee",
+    "Table": "<table class='table-auto border'>  <tbody>    <tr>      <td class='px-4 py-2 font-bold border-gray-200 bg-coal text-cloud'>Handgepäck</td>      <td class='px-4 py-2 border-b border-gray-200'>Analog Marabu</td>    </tr>    <tr>      <td class='px-4 py-2 border-b font-bold border-gray-200 bg-coal text-cloud'>Freigepäck</td>      <td class='px-4 py-2 border-b border-gray-200'>Analog Marabu</td>    </tr>    <tr>      <td class='px-4 py-2 border-b font-bold border-gray-200 bg-coal text-cloud'>Sportgepäck</td>      <td class='px-4 py-2 border-b border-gray-200'>Analog Marabu</td>    </tr>    <tr>      <td class='px-4 py-2 border-b font-bold border-gray-200 bg-coal text-cloud'>Inflight Entertainment</td>      <td class='px-4 py-2 border-b border-gray-200'>Ab Juni: IFE über eigene mobile Geräte verfügbar</td>    </tr>    <tr>      <td class='px-4 py-2 border-b font-bold border-gray-200 bg-coal text-cloud'>Schwangerschaft</td>      <td class='px-4 py-2 border-b border-gray-200'>        Ohne Bestätigung der Flugtauglichkeit ist die Beförderung von Schwangeren bei Heston Airlines nur bis Ende der        26. Schwangerschaftswoche, mit Bestätigung bis Ende der 36. Woche, möglich.      </td>    </tr>    <tr>      <td class='px-4 py-2 border-b font-bold border-gray-200 bg-coal text-cloud'>Alleinreisendes Kind</td>      <td class='px-4 py-2 border-b border-gray-200'>Analog Marabu</td>    </tr>    <tr>      <td class='px-4 py-2 font-bold border-gray-200 bg-coal text-cloud'>Tierbeförderung</td>      <td class='px-4 py-2 border-gray-200'>Tiere in der Kabine: analog Marabu</td>    </tr>  </tbody></table>",
+    "Heading2": "Über Heston Airlines",
+    "Text2": "Heston Airlines ist eine neue Airline mit Sitz in Vilnius, Litauen. Sie gehört zur Heston Aviation Group (Brisbane, Australien), einer Firmengruppe, die auf Aircraft Leasing, Verkauf, Wartung und Reparatur spezialisiert ist. Seit 2021 fliegt das Unternehmen für andere Airlines und führt zudem Charterflüge für Reiseveranstalter durch. Im Sommer 2023 wird Heston Airlines IOSA zertifiziert sein - ein weltweites Qualitätssiegel für Flugsicherheit, welches von der International Air Transport Association (IATA) vergeben wird. Die Flotte umfasst A320, A321 und A330 Flugzeuge. Für Marabu starten die A320 Flieger auf der Kurz- und Mittelstrecke.",
+    "Terms&ConditionsText": "Es gelten die Marabu AGB's",
+    "Website": "Website: ",
+    "PartnerWebsiteText": "Heston Airlines",
+    "PartnerWebsiteUrl": "https://heston.aero"
+  },
+  "Tab2": {
+    "Label": "Nordica",
+    "LogoPath": "/images/nordica.png",
+    "Title": "Flüge mit Nordica",
+    "Subtitle": "Seit Mai 2023 kooperiert Marabu mit der estnischen Fluggesellschaft Nordica.",
+    "Text": "Mit unserem Partner Nordica fliegen Sie von München und Hamburg an unsere Ziele im Mittelmeerraum.",
+    "Text1": "Falls Sie zu Ihrem Marabu-Flug, durchgeführt von Nordica, Fragen haben oder Sonderleistungen (wie z.B. eine Sitzplatzreservierung oder Sportgepäck) hinzubuchen möchten, steht Ihnen folgende Kontaktmöglichkeit zur Verfügung: ",
+    "ContactEmail": "service@marabu.ee",
+    "Table": "<table class='table-auto border'>  <tbody>    <tr>      <td class='px-4 py-2 font-bold border-gray-200 bg-coal text-cloud'>Handgepäck</td>      <td class='px-4 py-2 border-b border-gray-200'>Analog Marabu</td>    </tr>    <tr>      <td class='px-4 py-2 border-b font-bold border-gray-200 bg-coal text-cloud'>Freigepäck</td>      <td class='px-4 py-2 border-b border-gray-200'>Analog Marabu</td>    </tr>    <tr>      <td class='px-4 py-2 border-b font-bold border-gray-200 bg-coal text-cloud'>Sportgepäck</td>      <td class='px-4 py-2 border-b border-gray-200'>Analog Marabu</td>    </tr>    <tr>      <td class='px-4 py-2 border-b font-bold border-gray-200 bg-coal text-cloud'>Inflight Entertainment</td>      <td class='px-4 py-2 border-b border-gray-200'>Ab Juni: IFE über eigene mobile Geräte verfügbar</td>    </tr>    <tr>      <td class='px-4 py-2 border-b font-bold border-gray-200 bg-coal text-cloud'>Schwangerschaft</td>      <td class='px-4 py-2 border-b border-gray-200'>        Ohne Bestätigung der Flugtauglichkeit ist die Beförderung von Schwangeren bei Heston Airlines nur bis Ende der        26. Schwangerschaftswoche, mit Bestätigung bis Ende der 36. Woche, möglich.      </td>    </tr>    <tr>      <td class='px-4 py-2 border-b font-bold border-gray-200 bg-coal text-cloud'>Alleinreisendes Kind</td>      <td class='px-4 py-2 border-b border-gray-200'>Analog Marabu</td>    </tr>    <tr>      <td class='px-4 py-2 font-bold border-gray-200 bg-coal text-cloud'>Tierbeförderung</td>      <td class='px-4 py-2 border-gray-200'>Tiere in der Kabine: analog Marabu</td>    </tr>  </tbody></table>",
+    "Heading2": "Über Nordica",
+    "Text2": "Die Nordic Aviation Group AS wurde am 25. September 2015 von der Regierung der Republik Estland gegründet. Die Gruppe besteht aus zwei bewährten Fluggesellschaften, Xfly und Nordica, sowie Nordic Aviation Advisory. Nordica bietet europäischen Fluggesellschaften strategische Partnerschaften an. Der Hauptsitz des Unternehmens befindet sich in Tallinn. Nordica verfügt derzeit über eine moderne Flotte von 17 Flugzeugen wie ATR 72-600, CRJ900 und Airbus A320. Es ist geplant, weitere 13 Flugzeuge in Betrieb zu nehmen. Im Frühjahr 2023 wird die Flotte um drei Airbus A320neo erweitert, die für ihre hochmodernen emissions- und schallreduzierten Triebwerke bekannt sind.",
+    "Terms&ConditionsText": "Es gelten die Marabu AGB's",
+    "PartnerWebsiteText": "Nordica Website",
+    "PartnerWebsiteUrl": "https://www.nordica.ee/en"
+  }
+}
