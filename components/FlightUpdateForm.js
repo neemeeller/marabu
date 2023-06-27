@@ -74,6 +74,7 @@ const FlightUpdateForm = () => {
 
   return (
     <div className="overflow-auto">
+      <h2>From title</h2>
       <div className="w-full py-20">
         <div className="max-w-3xl mx-auto">
           <form onSubmit={handleSubmit(onSubmit)} className="p-5">
