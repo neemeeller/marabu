@@ -48,7 +48,8 @@ const FlightUpdateForm = () => {
 
   const onSubmit = async data => {
     const formData = {...data, mobilePhone: `+${data.mobilePhone}`};
-    const result = await postData(WEBHOOK_URL, formData);
+    const result = await postData('/api/update', formData);
+    console.log('Result from local api', result);
 
     setFormSent(true);
     if (!result?.ok) {
